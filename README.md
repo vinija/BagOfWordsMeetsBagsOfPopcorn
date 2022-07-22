@@ -1,22 +1,11 @@
-# Kaggle: Bag of Words Meets Bags of Popcorn
+# Bag of Words Meets Bags of Popcorn From Kaggle
+
+[Link to the problem](https://www.kaggle.com/c/word2vec-nlp-tutorial).
+
+This repo contains a Bag-of-Words project with a Random Forest Classifier to learn IMDB review text and predict review sentiment labels.
 
 
-## Table of Contents  
-- [Project Overview](#project-overview)
-- [Install](#install)
-- [Code](#code)
-- [Run](#run)
-- [Data](#data)
-
-
-### <a name="project-overview"></a>Project Overview
-
-Project information can be found at [kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial).
-
-This mini-project contains a practice of using Bag-of-Words with a Random Forest Classifier to learn IMDB review text and predict review sentiment labels.
-
-
-### <a name="install"></a>Install
+### <a name="install"></a>Installation guide
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
@@ -33,7 +22,7 @@ Udacity recommends our students install [Anaconda](https://www.continuum.io/down
 
 ### <a name="code"></a>Code
 
-Complete code is provided in the `notebook.ipynb` notebook file. You will also be required to use the dataset file in `data` directory to complete your work.
+The code is provided in the `notebook.ipynb` notebook file. You will also be required to use the dataset file in `data` directory to complete your work.
 
 
 ### <a name="run"></a>Run
@@ -47,5 +36,5 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### <a name='data'></a>Data
 
-Training and test data can be downloaded [here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data).
+Training and test data is here [here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data).
 
